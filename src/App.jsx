@@ -13,7 +13,7 @@ function App() {
           Esta es la pagina para la organizacion
         </p>
         <p>
-          pagina 2
+          pagina 2 Juan Cambio 3
         </p>
       </main>
       
