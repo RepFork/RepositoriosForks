@@ -23,6 +23,7 @@ function App() {
       <footer>
         <p>
           2026 - Wil
+          el macho alfa
         </p>
       </footer>
     </div>
